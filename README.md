@@ -47,6 +47,10 @@
   | <URL>/status | 查看后台进程 |
   | <URL>/listen | 查看后台监听端口 |
 
+ ![image](https://user-images.githubusercontent.com/92626977/235288393-4d48f122-1eec-40a0-a84d-bdb666bd1291.png)
+
+ ![image](https://user-images.githubusercontent.com/92626977/235288429-6e253f76-4bab-43c3-b953-8a91e0225cde.png)
+
 ```
 ARGO_AUTH=""
 ARGO_DOMAIN=""
@@ -59,10 +63,7 @@ WSPATH=""
 WEB_USERNAME=""
 WEB_PASSWORD=""
 ```
- ![image](https://user-images.githubusercontent.com/92626977/235288393-4d48f122-1eec-40a0-a84d-bdb666bd1291.png)
 
- ![image](https://user-images.githubusercontent.com/92626977/235288429-6e253f76-4bab-43c3-b953-8a91e0225cde.png)
-  
  ![image](https://user-images.githubusercontent.com/92626977/235289409-392ccb73-55d9-4e00-a995-26fc765516b0.png)
 
 * 下载项目文件到本地压缩：`https://github.com/fscarmen2/X-for-CodeSandBox/archive/refs/heads/main.zip`，除 `README.md` 外的所有文件和目录上传到 `.codesandbox` 文件夹下
