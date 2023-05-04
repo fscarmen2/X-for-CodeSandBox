@@ -1,0 +1,18 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "list": {
+      "name": "list",
+      "command": "sleep 5; cat /app/list",
+      "runAtStart": true
+    },
+    "url": {
+      "name": "url",
+      "command": "echo https://$CSB_SANDBOX_ID-3000.$CSB_BASE_PREVIEW_HOST",
+      "runAtStart": true
+    }
+  }
+}
